@@ -20,6 +20,11 @@
 	</properties>
 	<dependencies>
 		<dependency>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-resources-plugin</artifactId>
+			<version>3.0.5</version>
+		</dependency>
+		<dependency>
 			<groupId>com.apple</groupId>
 			<artifactId>AppleJavaExtensions</artifactId>
 			<version>1.4</version>
